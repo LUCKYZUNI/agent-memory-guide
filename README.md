@@ -660,6 +660,21 @@ Schedule it. Put it in your heartbeat/cron. Track it. The worst state is "memory
 
 ---
 
+## OpenClaw Skill (One-Command Install)
+
+If you're running OpenClaw, we've packaged the entire memory system as an installable skill:
+
+**Download:** [`persistent-memory.skill`](./persistent-memory.skill)
+
+**Install:**
+1. Drop the `.skill` file into your OpenClaw skills directory
+2. Run `bash skills/persistent-memory/scripts/setup.sh`
+3. Done — your agent now has three-layer persistent memory
+
+The skill includes: indexer, semantic search, knowledge graph, sync watchdog, and auto-retrieve hook. See [`openclaw-skill/`](./openclaw-skill/) for the full source.
+
+---
+
 ## What's Next
 
 Our current roadmap:
