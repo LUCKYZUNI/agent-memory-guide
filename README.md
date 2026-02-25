@@ -1,5 +1,8 @@
 # Building Persistent Memory for AI Agents
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Jakebot-ops?style=flat&logo=github&label=Sponsor%20Jakebot%20Labs&color=ea4aaa)](https://github.com/sponsors/Jakebot-ops)
+
+
 ## 🚨 CRITICAL UPDATE: Version 2.0 (February 2026)
 
 **If you're using version 1.x, you MUST upgrade to prevent agents ignoring workspace directives.**
